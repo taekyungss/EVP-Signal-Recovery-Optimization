@@ -17,4 +17,4 @@ Optimized support chatbot for understanding RAG-based researcher papers and prep
 
 
 Algorithms
-[https://github.com/DGU-ISEmergency/Algorithms](Algorithms github) 
+[https://github.com/DGU-ISEmergency/Algorithms]
