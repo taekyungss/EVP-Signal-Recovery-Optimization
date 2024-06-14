@@ -15,6 +15,12 @@ Optimized support chatbot for understanding RAG-based researcher papers and prep
 ## Team Subject
 **교통 혼잡 최소화를 위한 긴급차량 우선신호 시스템 상의 신호 회복주기 최적화 : 강남 테헤란로를 중심으로**
 
+## [Repository]
 
 Algorithms
+
 [https://github.com/DGU-ISEmergency/Algorithms]
+
+AI_traffic_estimation
+
+[https://github.com/DGU-ISEmergency/AI_traffic_estimation]
