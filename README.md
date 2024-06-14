@@ -16,7 +16,7 @@ Optimization of Signal Recovery Cycle in Emergency Vehicle Priority Signal Syste
 **교통 혼잡 최소화를 위한 긴급차량 우선신호 시스템 상의 신호 회복주기 최적화 : 강남 테헤란로를 중심으로**
 
 <div align ="center">
-<img src="image/image.png" alt="그림1" width="350" height="150"/>
+<img src="image/image.png" alt="그림1" width="500" height="350"/>
 </div>
 
 
