@@ -1,5 +1,5 @@
 # EVP-Signal-Recovery-Optimization
-Optimized support chatbot for understanding RAG-based researcher papers and preparing for Q&amp;A, reference retrieval, and presentation
+Optimization of Signal Recovery Cycle in Emergency Vehicle Priority Signal System for Minimizing Traffic Congestion
 
 # 2024-1 동국대 산업시스템공학종합설계 10조
 
