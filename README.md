@@ -1,6 +1,8 @@
 # EVP-Signal-Recovery-Optimization
 Optimization of Signal Recovery Cycle in Emergency Vehicle Priority Signal System for Minimizing Traffic Congestion
 
+# 대한산업공학회 제20회 한국대학생“산업공학”프로젝트경진대회 은상🥈 수상
+
 # 2024-1 동국대 산업시스템공학종합설계 10조
 
 ## Team Members
